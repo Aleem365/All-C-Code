@@ -1,0 +1,15 @@
+F:\C# pra\Task4 SortVowel\Task4 SortVowel\bin\Debug\net7.0\Task4 SortVowel.exe
+F:\C# pra\Task4 SortVowel\Task4 SortVowel\bin\Debug\net7.0\Task4 SortVowel.deps.json
+F:\C# pra\Task4 SortVowel\Task4 SortVowel\bin\Debug\net7.0\Task4 SortVowel.runtimeconfig.json
+F:\C# pra\Task4 SortVowel\Task4 SortVowel\bin\Debug\net7.0\Task4 SortVowel.dll
+F:\C# pra\Task4 SortVowel\Task4 SortVowel\bin\Debug\net7.0\Task4 SortVowel.pdb
+F:\C# pra\Task4 SortVowel\Task4 SortVowel\obj\Debug\net7.0\Task4 SortVowel.csproj.AssemblyReference.cache
+F:\C# pra\Task4 SortVowel\Task4 SortVowel\obj\Debug\net7.0\Task4 SortVowel.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# pra\Task4 SortVowel\Task4 SortVowel\obj\Debug\net7.0\Task4 SortVowel.AssemblyInfoInputs.cache
+F:\C# pra\Task4 SortVowel\Task4 SortVowel\obj\Debug\net7.0\Task4 SortVowel.AssemblyInfo.cs
+F:\C# pra\Task4 SortVowel\Task4 SortVowel\obj\Debug\net7.0\Task4 SortVowel.csproj.CoreCompileInputs.cache
+F:\C# pra\Task4 SortVowel\Task4 SortVowel\obj\Debug\net7.0\Task4 SortVowel.dll
+F:\C# pra\Task4 SortVowel\Task4 SortVowel\obj\Debug\net7.0\refint\Task4 SortVowel.dll
+F:\C# pra\Task4 SortVowel\Task4 SortVowel\obj\Debug\net7.0\Task4 SortVowel.pdb
+F:\C# pra\Task4 SortVowel\Task4 SortVowel\obj\Debug\net7.0\Task4 SortVowel.genruntimeconfig.cache
+F:\C# pra\Task4 SortVowel\Task4 SortVowel\obj\Debug\net7.0\ref\Task4 SortVowel.dll

@@ -1,0 +1,15 @@
+F:\C# pra\task 4 show vowel\task 4 show vowel\bin\Debug\net7.0\task 4 show vowel.exe
+F:\C# pra\task 4 show vowel\task 4 show vowel\bin\Debug\net7.0\task 4 show vowel.deps.json
+F:\C# pra\task 4 show vowel\task 4 show vowel\bin\Debug\net7.0\task 4 show vowel.runtimeconfig.json
+F:\C# pra\task 4 show vowel\task 4 show vowel\bin\Debug\net7.0\task 4 show vowel.dll
+F:\C# pra\task 4 show vowel\task 4 show vowel\bin\Debug\net7.0\task 4 show vowel.pdb
+F:\C# pra\task 4 show vowel\task 4 show vowel\obj\Debug\net7.0\task 4 show vowel.csproj.AssemblyReference.cache
+F:\C# pra\task 4 show vowel\task 4 show vowel\obj\Debug\net7.0\task 4 show vowel.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# pra\task 4 show vowel\task 4 show vowel\obj\Debug\net7.0\task 4 show vowel.AssemblyInfoInputs.cache
+F:\C# pra\task 4 show vowel\task 4 show vowel\obj\Debug\net7.0\task 4 show vowel.AssemblyInfo.cs
+F:\C# pra\task 4 show vowel\task 4 show vowel\obj\Debug\net7.0\task 4 show vowel.csproj.CoreCompileInputs.cache
+F:\C# pra\task 4 show vowel\task 4 show vowel\obj\Debug\net7.0\task 4 show vowel.dll
+F:\C# pra\task 4 show vowel\task 4 show vowel\obj\Debug\net7.0\refint\task 4 show vowel.dll
+F:\C# pra\task 4 show vowel\task 4 show vowel\obj\Debug\net7.0\task 4 show vowel.pdb
+F:\C# pra\task 4 show vowel\task 4 show vowel\obj\Debug\net7.0\task 4 show vowel.genruntimeconfig.cache
+F:\C# pra\task 4 show vowel\task 4 show vowel\obj\Debug\net7.0\ref\task 4 show vowel.dll

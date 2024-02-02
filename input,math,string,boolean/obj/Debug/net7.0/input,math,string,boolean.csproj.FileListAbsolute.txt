@@ -1,0 +1,15 @@
+F:\C# pra\input,math,string,boolean\bin\Debug\net7.0\input,math,string,boolean.exe
+F:\C# pra\input,math,string,boolean\bin\Debug\net7.0\input,math,string,boolean.deps.json
+F:\C# pra\input,math,string,boolean\bin\Debug\net7.0\input,math,string,boolean.runtimeconfig.json
+F:\C# pra\input,math,string,boolean\bin\Debug\net7.0\input,math,string,boolean.dll
+F:\C# pra\input,math,string,boolean\bin\Debug\net7.0\input,math,string,boolean.pdb
+F:\C# pra\input,math,string,boolean\obj\Debug\net7.0\input,math,string,boolean.csproj.AssemblyReference.cache
+F:\C# pra\input,math,string,boolean\obj\Debug\net7.0\input,math,string,boolean.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# pra\input,math,string,boolean\obj\Debug\net7.0\input,math,string,boolean.AssemblyInfoInputs.cache
+F:\C# pra\input,math,string,boolean\obj\Debug\net7.0\input,math,string,boolean.AssemblyInfo.cs
+F:\C# pra\input,math,string,boolean\obj\Debug\net7.0\input,math,string,boolean.csproj.CoreCompileInputs.cache
+F:\C# pra\input,math,string,boolean\obj\Debug\net7.0\input,math,string,boolean.dll
+F:\C# pra\input,math,string,boolean\obj\Debug\net7.0\refint\input,math,string,boolean.dll
+F:\C# pra\input,math,string,boolean\obj\Debug\net7.0\input,math,string,boolean.pdb
+F:\C# pra\input,math,string,boolean\obj\Debug\net7.0\input,math,string,boolean.genruntimeconfig.cache
+F:\C# pra\input,math,string,boolean\obj\Debug\net7.0\ref\input,math,string,boolean.dll

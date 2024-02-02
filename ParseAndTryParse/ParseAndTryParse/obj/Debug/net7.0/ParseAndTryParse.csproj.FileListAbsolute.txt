@@ -1,0 +1,15 @@
+F:\C# pra\ParseAndTryParse\ParseAndTryParse\bin\Debug\net7.0\ParseAndTryParse.exe
+F:\C# pra\ParseAndTryParse\ParseAndTryParse\bin\Debug\net7.0\ParseAndTryParse.deps.json
+F:\C# pra\ParseAndTryParse\ParseAndTryParse\bin\Debug\net7.0\ParseAndTryParse.runtimeconfig.json
+F:\C# pra\ParseAndTryParse\ParseAndTryParse\bin\Debug\net7.0\ParseAndTryParse.dll
+F:\C# pra\ParseAndTryParse\ParseAndTryParse\bin\Debug\net7.0\ParseAndTryParse.pdb
+F:\C# pra\ParseAndTryParse\ParseAndTryParse\obj\Debug\net7.0\ParseAndTryParse.csproj.AssemblyReference.cache
+F:\C# pra\ParseAndTryParse\ParseAndTryParse\obj\Debug\net7.0\ParseAndTryParse.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# pra\ParseAndTryParse\ParseAndTryParse\obj\Debug\net7.0\ParseAndTryParse.AssemblyInfoInputs.cache
+F:\C# pra\ParseAndTryParse\ParseAndTryParse\obj\Debug\net7.0\ParseAndTryParse.AssemblyInfo.cs
+F:\C# pra\ParseAndTryParse\ParseAndTryParse\obj\Debug\net7.0\ParseAndTryParse.csproj.CoreCompileInputs.cache
+F:\C# pra\ParseAndTryParse\ParseAndTryParse\obj\Debug\net7.0\ParseAndTryParse.dll
+F:\C# pra\ParseAndTryParse\ParseAndTryParse\obj\Debug\net7.0\refint\ParseAndTryParse.dll
+F:\C# pra\ParseAndTryParse\ParseAndTryParse\obj\Debug\net7.0\ParseAndTryParse.pdb
+F:\C# pra\ParseAndTryParse\ParseAndTryParse\obj\Debug\net7.0\ParseAndTryParse.genruntimeconfig.cache
+F:\C# pra\ParseAndTryParse\ParseAndTryParse\obj\Debug\net7.0\ref\ParseAndTryParse.dll

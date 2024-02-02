@@ -1,0 +1,15 @@
+F:\C# pra\start fundamentel\start fundamentel\bin\Debug\net7.0\start fundamentel.exe
+F:\C# pra\start fundamentel\start fundamentel\bin\Debug\net7.0\start fundamentel.deps.json
+F:\C# pra\start fundamentel\start fundamentel\bin\Debug\net7.0\start fundamentel.runtimeconfig.json
+F:\C# pra\start fundamentel\start fundamentel\bin\Debug\net7.0\start fundamentel.dll
+F:\C# pra\start fundamentel\start fundamentel\bin\Debug\net7.0\start fundamentel.pdb
+F:\C# pra\start fundamentel\start fundamentel\obj\Debug\net7.0\start fundamentel.csproj.AssemblyReference.cache
+F:\C# pra\start fundamentel\start fundamentel\obj\Debug\net7.0\start fundamentel.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# pra\start fundamentel\start fundamentel\obj\Debug\net7.0\start fundamentel.AssemblyInfoInputs.cache
+F:\C# pra\start fundamentel\start fundamentel\obj\Debug\net7.0\start fundamentel.AssemblyInfo.cs
+F:\C# pra\start fundamentel\start fundamentel\obj\Debug\net7.0\start fundamentel.csproj.CoreCompileInputs.cache
+F:\C# pra\start fundamentel\start fundamentel\obj\Debug\net7.0\start fundamentel.dll
+F:\C# pra\start fundamentel\start fundamentel\obj\Debug\net7.0\refint\start fundamentel.dll
+F:\C# pra\start fundamentel\start fundamentel\obj\Debug\net7.0\start fundamentel.pdb
+F:\C# pra\start fundamentel\start fundamentel\obj\Debug\net7.0\start fundamentel.genruntimeconfig.cache
+F:\C# pra\start fundamentel\start fundamentel\obj\Debug\net7.0\ref\start fundamentel.dll

@@ -1,0 +1,15 @@
+F:\C# pra\test prime\test prime\bin\Debug\net7.0\test prime.exe
+F:\C# pra\test prime\test prime\bin\Debug\net7.0\test prime.deps.json
+F:\C# pra\test prime\test prime\bin\Debug\net7.0\test prime.runtimeconfig.json
+F:\C# pra\test prime\test prime\bin\Debug\net7.0\test prime.dll
+F:\C# pra\test prime\test prime\bin\Debug\net7.0\test prime.pdb
+F:\C# pra\test prime\test prime\obj\Debug\net7.0\test prime.csproj.AssemblyReference.cache
+F:\C# pra\test prime\test prime\obj\Debug\net7.0\test prime.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# pra\test prime\test prime\obj\Debug\net7.0\test prime.AssemblyInfoInputs.cache
+F:\C# pra\test prime\test prime\obj\Debug\net7.0\test prime.AssemblyInfo.cs
+F:\C# pra\test prime\test prime\obj\Debug\net7.0\test prime.csproj.CoreCompileInputs.cache
+F:\C# pra\test prime\test prime\obj\Debug\net7.0\test prime.dll
+F:\C# pra\test prime\test prime\obj\Debug\net7.0\refint\test prime.dll
+F:\C# pra\test prime\test prime\obj\Debug\net7.0\test prime.pdb
+F:\C# pra\test prime\test prime\obj\Debug\net7.0\test prime.genruntimeconfig.cache
+F:\C# pra\test prime\test prime\obj\Debug\net7.0\ref\test prime.dll

@@ -1,0 +1,15 @@
+F:\C# pra\ArrayAndMulti\ArrayAndMulti\bin\Debug\net7.0\ArrayAndMulti.exe
+F:\C# pra\ArrayAndMulti\ArrayAndMulti\bin\Debug\net7.0\ArrayAndMulti.deps.json
+F:\C# pra\ArrayAndMulti\ArrayAndMulti\bin\Debug\net7.0\ArrayAndMulti.runtimeconfig.json
+F:\C# pra\ArrayAndMulti\ArrayAndMulti\bin\Debug\net7.0\ArrayAndMulti.dll
+F:\C# pra\ArrayAndMulti\ArrayAndMulti\bin\Debug\net7.0\ArrayAndMulti.pdb
+F:\C# pra\ArrayAndMulti\ArrayAndMulti\obj\Debug\net7.0\ArrayAndMulti.csproj.AssemblyReference.cache
+F:\C# pra\ArrayAndMulti\ArrayAndMulti\obj\Debug\net7.0\ArrayAndMulti.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# pra\ArrayAndMulti\ArrayAndMulti\obj\Debug\net7.0\ArrayAndMulti.AssemblyInfoInputs.cache
+F:\C# pra\ArrayAndMulti\ArrayAndMulti\obj\Debug\net7.0\ArrayAndMulti.AssemblyInfo.cs
+F:\C# pra\ArrayAndMulti\ArrayAndMulti\obj\Debug\net7.0\ArrayAndMulti.csproj.CoreCompileInputs.cache
+F:\C# pra\ArrayAndMulti\ArrayAndMulti\obj\Debug\net7.0\ArrayAndMulti.dll
+F:\C# pra\ArrayAndMulti\ArrayAndMulti\obj\Debug\net7.0\refint\ArrayAndMulti.dll
+F:\C# pra\ArrayAndMulti\ArrayAndMulti\obj\Debug\net7.0\ArrayAndMulti.pdb
+F:\C# pra\ArrayAndMulti\ArrayAndMulti\obj\Debug\net7.0\ArrayAndMulti.genruntimeconfig.cache
+F:\C# pra\ArrayAndMulti\ArrayAndMulti\obj\Debug\net7.0\ref\ArrayAndMulti.dll

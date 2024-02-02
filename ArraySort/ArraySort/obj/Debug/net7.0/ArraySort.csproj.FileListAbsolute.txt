@@ -1,0 +1,15 @@
+F:\C# pra\ArraySort\ArraySort\bin\Debug\net7.0\ArraySort.exe
+F:\C# pra\ArraySort\ArraySort\bin\Debug\net7.0\ArraySort.deps.json
+F:\C# pra\ArraySort\ArraySort\bin\Debug\net7.0\ArraySort.runtimeconfig.json
+F:\C# pra\ArraySort\ArraySort\bin\Debug\net7.0\ArraySort.dll
+F:\C# pra\ArraySort\ArraySort\bin\Debug\net7.0\ArraySort.pdb
+F:\C# pra\ArraySort\ArraySort\obj\Debug\net7.0\ArraySort.csproj.AssemblyReference.cache
+F:\C# pra\ArraySort\ArraySort\obj\Debug\net7.0\ArraySort.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# pra\ArraySort\ArraySort\obj\Debug\net7.0\ArraySort.AssemblyInfoInputs.cache
+F:\C# pra\ArraySort\ArraySort\obj\Debug\net7.0\ArraySort.AssemblyInfo.cs
+F:\C# pra\ArraySort\ArraySort\obj\Debug\net7.0\ArraySort.csproj.CoreCompileInputs.cache
+F:\C# pra\ArraySort\ArraySort\obj\Debug\net7.0\ArraySort.dll
+F:\C# pra\ArraySort\ArraySort\obj\Debug\net7.0\refint\ArraySort.dll
+F:\C# pra\ArraySort\ArraySort\obj\Debug\net7.0\ArraySort.pdb
+F:\C# pra\ArraySort\ArraySort\obj\Debug\net7.0\ArraySort.genruntimeconfig.cache
+F:\C# pra\ArraySort\ArraySort\obj\Debug\net7.0\ref\ArraySort.dll

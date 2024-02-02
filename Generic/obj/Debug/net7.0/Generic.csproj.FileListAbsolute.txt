@@ -1,0 +1,15 @@
+F:\C# pra\Generic\bin\Debug\net7.0\Generic.exe
+F:\C# pra\Generic\bin\Debug\net7.0\Generic.deps.json
+F:\C# pra\Generic\bin\Debug\net7.0\Generic.runtimeconfig.json
+F:\C# pra\Generic\bin\Debug\net7.0\Generic.dll
+F:\C# pra\Generic\bin\Debug\net7.0\Generic.pdb
+F:\C# pra\Generic\obj\Debug\net7.0\Generic.csproj.AssemblyReference.cache
+F:\C# pra\Generic\obj\Debug\net7.0\Generic.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# pra\Generic\obj\Debug\net7.0\Generic.AssemblyInfoInputs.cache
+F:\C# pra\Generic\obj\Debug\net7.0\Generic.AssemblyInfo.cs
+F:\C# pra\Generic\obj\Debug\net7.0\Generic.csproj.CoreCompileInputs.cache
+F:\C# pra\Generic\obj\Debug\net7.0\Generic.dll
+F:\C# pra\Generic\obj\Debug\net7.0\refint\Generic.dll
+F:\C# pra\Generic\obj\Debug\net7.0\Generic.pdb
+F:\C# pra\Generic\obj\Debug\net7.0\Generic.genruntimeconfig.cache
+F:\C# pra\Generic\obj\Debug\net7.0\ref\Generic.dll

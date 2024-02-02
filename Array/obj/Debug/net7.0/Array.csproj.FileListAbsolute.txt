@@ -1,0 +1,15 @@
+F:\C# pra\Array\bin\Debug\net7.0\Array.exe
+F:\C# pra\Array\bin\Debug\net7.0\Array.deps.json
+F:\C# pra\Array\bin\Debug\net7.0\Array.runtimeconfig.json
+F:\C# pra\Array\bin\Debug\net7.0\Array.dll
+F:\C# pra\Array\bin\Debug\net7.0\Array.pdb
+F:\C# pra\Array\obj\Debug\net7.0\Array.csproj.AssemblyReference.cache
+F:\C# pra\Array\obj\Debug\net7.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# pra\Array\obj\Debug\net7.0\Array.AssemblyInfoInputs.cache
+F:\C# pra\Array\obj\Debug\net7.0\Array.AssemblyInfo.cs
+F:\C# pra\Array\obj\Debug\net7.0\Array.csproj.CoreCompileInputs.cache
+F:\C# pra\Array\obj\Debug\net7.0\Array.dll
+F:\C# pra\Array\obj\Debug\net7.0\refint\Array.dll
+F:\C# pra\Array\obj\Debug\net7.0\Array.pdb
+F:\C# pra\Array\obj\Debug\net7.0\Array.genruntimeconfig.cache
+F:\C# pra\Array\obj\Debug\net7.0\ref\Array.dll

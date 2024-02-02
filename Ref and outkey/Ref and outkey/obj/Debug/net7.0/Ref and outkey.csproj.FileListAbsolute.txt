@@ -1,0 +1,15 @@
+F:\C# pra\Ref and outkey\Ref and outkey\bin\Debug\net7.0\Ref and outkey.exe
+F:\C# pra\Ref and outkey\Ref and outkey\bin\Debug\net7.0\Ref and outkey.deps.json
+F:\C# pra\Ref and outkey\Ref and outkey\bin\Debug\net7.0\Ref and outkey.runtimeconfig.json
+F:\C# pra\Ref and outkey\Ref and outkey\bin\Debug\net7.0\Ref and outkey.dll
+F:\C# pra\Ref and outkey\Ref and outkey\bin\Debug\net7.0\Ref and outkey.pdb
+F:\C# pra\Ref and outkey\Ref and outkey\obj\Debug\net7.0\Ref and outkey.csproj.AssemblyReference.cache
+F:\C# pra\Ref and outkey\Ref and outkey\obj\Debug\net7.0\Ref and outkey.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# pra\Ref and outkey\Ref and outkey\obj\Debug\net7.0\Ref and outkey.AssemblyInfoInputs.cache
+F:\C# pra\Ref and outkey\Ref and outkey\obj\Debug\net7.0\Ref and outkey.AssemblyInfo.cs
+F:\C# pra\Ref and outkey\Ref and outkey\obj\Debug\net7.0\Ref and outkey.csproj.CoreCompileInputs.cache
+F:\C# pra\Ref and outkey\Ref and outkey\obj\Debug\net7.0\Ref and outkey.dll
+F:\C# pra\Ref and outkey\Ref and outkey\obj\Debug\net7.0\refint\Ref and outkey.dll
+F:\C# pra\Ref and outkey\Ref and outkey\obj\Debug\net7.0\Ref and outkey.pdb
+F:\C# pra\Ref and outkey\Ref and outkey\obj\Debug\net7.0\Ref and outkey.genruntimeconfig.cache
+F:\C# pra\Ref and outkey\Ref and outkey\obj\Debug\net7.0\ref\Ref and outkey.dll

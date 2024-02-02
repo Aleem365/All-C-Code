@@ -1,0 +1,15 @@
+F:\C# pra\Class and Object\bin\Debug\net7.0\Class and Object.exe
+F:\C# pra\Class and Object\bin\Debug\net7.0\Class and Object.deps.json
+F:\C# pra\Class and Object\bin\Debug\net7.0\Class and Object.runtimeconfig.json
+F:\C# pra\Class and Object\bin\Debug\net7.0\Class and Object.dll
+F:\C# pra\Class and Object\bin\Debug\net7.0\Class and Object.pdb
+F:\C# pra\Class and Object\obj\Debug\net7.0\Class and Object.csproj.AssemblyReference.cache
+F:\C# pra\Class and Object\obj\Debug\net7.0\Class and Object.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# pra\Class and Object\obj\Debug\net7.0\Class and Object.AssemblyInfoInputs.cache
+F:\C# pra\Class and Object\obj\Debug\net7.0\Class and Object.AssemblyInfo.cs
+F:\C# pra\Class and Object\obj\Debug\net7.0\Class and Object.csproj.CoreCompileInputs.cache
+F:\C# pra\Class and Object\obj\Debug\net7.0\Class and Object.dll
+F:\C# pra\Class and Object\obj\Debug\net7.0\refint\Class and Object.dll
+F:\C# pra\Class and Object\obj\Debug\net7.0\Class and Object.pdb
+F:\C# pra\Class and Object\obj\Debug\net7.0\Class and Object.genruntimeconfig.cache
+F:\C# pra\Class and Object\obj\Debug\net7.0\ref\Class and Object.dll

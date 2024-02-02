@@ -1,0 +1,15 @@
+F:\C# pra\Encapsulation\bin\Debug\net7.0\Encapsulation.exe
+F:\C# pra\Encapsulation\bin\Debug\net7.0\Encapsulation.deps.json
+F:\C# pra\Encapsulation\bin\Debug\net7.0\Encapsulation.runtimeconfig.json
+F:\C# pra\Encapsulation\bin\Debug\net7.0\Encapsulation.dll
+F:\C# pra\Encapsulation\bin\Debug\net7.0\Encapsulation.pdb
+F:\C# pra\Encapsulation\obj\Debug\net7.0\Encapsulation.csproj.AssemblyReference.cache
+F:\C# pra\Encapsulation\obj\Debug\net7.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# pra\Encapsulation\obj\Debug\net7.0\Encapsulation.AssemblyInfoInputs.cache
+F:\C# pra\Encapsulation\obj\Debug\net7.0\Encapsulation.AssemblyInfo.cs
+F:\C# pra\Encapsulation\obj\Debug\net7.0\Encapsulation.csproj.CoreCompileInputs.cache
+F:\C# pra\Encapsulation\obj\Debug\net7.0\Encapsulation.dll
+F:\C# pra\Encapsulation\obj\Debug\net7.0\refint\Encapsulation.dll
+F:\C# pra\Encapsulation\obj\Debug\net7.0\Encapsulation.pdb
+F:\C# pra\Encapsulation\obj\Debug\net7.0\Encapsulation.genruntimeconfig.cache
+F:\C# pra\Encapsulation\obj\Debug\net7.0\ref\Encapsulation.dll

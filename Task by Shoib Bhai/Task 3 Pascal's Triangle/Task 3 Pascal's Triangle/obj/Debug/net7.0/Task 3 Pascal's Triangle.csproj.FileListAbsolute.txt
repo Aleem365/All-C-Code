@@ -1,0 +1,15 @@
+F:\C# pra\Task by Shoib Bhai\Task 3 Pascal's Triangle\Task 3 Pascal's Triangle\bin\Debug\net7.0\Task 3 Pascal's Triangle.exe
+F:\C# pra\Task by Shoib Bhai\Task 3 Pascal's Triangle\Task 3 Pascal's Triangle\bin\Debug\net7.0\Task 3 Pascal's Triangle.deps.json
+F:\C# pra\Task by Shoib Bhai\Task 3 Pascal's Triangle\Task 3 Pascal's Triangle\bin\Debug\net7.0\Task 3 Pascal's Triangle.runtimeconfig.json
+F:\C# pra\Task by Shoib Bhai\Task 3 Pascal's Triangle\Task 3 Pascal's Triangle\bin\Debug\net7.0\Task 3 Pascal's Triangle.dll
+F:\C# pra\Task by Shoib Bhai\Task 3 Pascal's Triangle\Task 3 Pascal's Triangle\bin\Debug\net7.0\Task 3 Pascal's Triangle.pdb
+F:\C# pra\Task by Shoib Bhai\Task 3 Pascal's Triangle\Task 3 Pascal's Triangle\obj\Debug\net7.0\Task 3 Pascal's Triangle.csproj.AssemblyReference.cache
+F:\C# pra\Task by Shoib Bhai\Task 3 Pascal's Triangle\Task 3 Pascal's Triangle\obj\Debug\net7.0\Task 3 Pascal's Triangle.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# pra\Task by Shoib Bhai\Task 3 Pascal's Triangle\Task 3 Pascal's Triangle\obj\Debug\net7.0\Task 3 Pascal's Triangle.AssemblyInfoInputs.cache
+F:\C# pra\Task by Shoib Bhai\Task 3 Pascal's Triangle\Task 3 Pascal's Triangle\obj\Debug\net7.0\Task 3 Pascal's Triangle.AssemblyInfo.cs
+F:\C# pra\Task by Shoib Bhai\Task 3 Pascal's Triangle\Task 3 Pascal's Triangle\obj\Debug\net7.0\Task 3 Pascal's Triangle.csproj.CoreCompileInputs.cache
+F:\C# pra\Task by Shoib Bhai\Task 3 Pascal's Triangle\Task 3 Pascal's Triangle\obj\Debug\net7.0\Task 3 Pascal's Triangle.dll
+F:\C# pra\Task by Shoib Bhai\Task 3 Pascal's Triangle\Task 3 Pascal's Triangle\obj\Debug\net7.0\refint\Task 3 Pascal's Triangle.dll
+F:\C# pra\Task by Shoib Bhai\Task 3 Pascal's Triangle\Task 3 Pascal's Triangle\obj\Debug\net7.0\Task 3 Pascal's Triangle.pdb
+F:\C# pra\Task by Shoib Bhai\Task 3 Pascal's Triangle\Task 3 Pascal's Triangle\obj\Debug\net7.0\Task 3 Pascal's Triangle.genruntimeconfig.cache
+F:\C# pra\Task by Shoib Bhai\Task 3 Pascal's Triangle\Task 3 Pascal's Triangle\obj\Debug\net7.0\ref\Task 3 Pascal's Triangle.dll

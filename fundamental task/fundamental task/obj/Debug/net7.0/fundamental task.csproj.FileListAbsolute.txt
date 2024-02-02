@@ -1,0 +1,15 @@
+F:\C# pra\fundamental task\fundamental task\bin\Debug\net7.0\fundamental task.exe
+F:\C# pra\fundamental task\fundamental task\bin\Debug\net7.0\fundamental task.deps.json
+F:\C# pra\fundamental task\fundamental task\bin\Debug\net7.0\fundamental task.runtimeconfig.json
+F:\C# pra\fundamental task\fundamental task\bin\Debug\net7.0\fundamental task.dll
+F:\C# pra\fundamental task\fundamental task\bin\Debug\net7.0\fundamental task.pdb
+F:\C# pra\fundamental task\fundamental task\obj\Debug\net7.0\fundamental task.csproj.AssemblyReference.cache
+F:\C# pra\fundamental task\fundamental task\obj\Debug\net7.0\fundamental task.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# pra\fundamental task\fundamental task\obj\Debug\net7.0\fundamental task.AssemblyInfoInputs.cache
+F:\C# pra\fundamental task\fundamental task\obj\Debug\net7.0\fundamental task.AssemblyInfo.cs
+F:\C# pra\fundamental task\fundamental task\obj\Debug\net7.0\fundamental task.csproj.CoreCompileInputs.cache
+F:\C# pra\fundamental task\fundamental task\obj\Debug\net7.0\fundamental task.dll
+F:\C# pra\fundamental task\fundamental task\obj\Debug\net7.0\refint\fundamental task.dll
+F:\C# pra\fundamental task\fundamental task\obj\Debug\net7.0\fundamental task.pdb
+F:\C# pra\fundamental task\fundamental task\obj\Debug\net7.0\fundamental task.genruntimeconfig.cache
+F:\C# pra\fundamental task\fundamental task\obj\Debug\net7.0\ref\fundamental task.dll

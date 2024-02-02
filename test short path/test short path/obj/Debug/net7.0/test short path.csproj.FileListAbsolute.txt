@@ -1,0 +1,15 @@
+F:\C# pra\test short path\test short path\obj\Debug\net7.0\test short path.csproj.AssemblyReference.cache
+F:\C# pra\test short path\test short path\obj\Debug\net7.0\test short path.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# pra\test short path\test short path\obj\Debug\net7.0\test short path.AssemblyInfoInputs.cache
+F:\C# pra\test short path\test short path\obj\Debug\net7.0\test short path.AssemblyInfo.cs
+F:\C# pra\test short path\test short path\obj\Debug\net7.0\test short path.csproj.CoreCompileInputs.cache
+F:\C# pra\test short path\test short path\bin\Debug\net7.0\test short path.exe
+F:\C# pra\test short path\test short path\bin\Debug\net7.0\test short path.deps.json
+F:\C# pra\test short path\test short path\bin\Debug\net7.0\test short path.runtimeconfig.json
+F:\C# pra\test short path\test short path\bin\Debug\net7.0\test short path.dll
+F:\C# pra\test short path\test short path\bin\Debug\net7.0\test short path.pdb
+F:\C# pra\test short path\test short path\obj\Debug\net7.0\test short path.dll
+F:\C# pra\test short path\test short path\obj\Debug\net7.0\refint\test short path.dll
+F:\C# pra\test short path\test short path\obj\Debug\net7.0\test short path.pdb
+F:\C# pra\test short path\test short path\obj\Debug\net7.0\test short path.genruntimeconfig.cache
+F:\C# pra\test short path\test short path\obj\Debug\net7.0\ref\test short path.dll

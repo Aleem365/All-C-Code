@@ -1,0 +1,15 @@
+F:\C# pra\Lists\Lists\bin\Debug\net7.0\Lists.exe
+F:\C# pra\Lists\Lists\bin\Debug\net7.0\Lists.deps.json
+F:\C# pra\Lists\Lists\bin\Debug\net7.0\Lists.runtimeconfig.json
+F:\C# pra\Lists\Lists\bin\Debug\net7.0\Lists.dll
+F:\C# pra\Lists\Lists\bin\Debug\net7.0\Lists.pdb
+F:\C# pra\Lists\Lists\obj\Debug\net7.0\Lists.csproj.AssemblyReference.cache
+F:\C# pra\Lists\Lists\obj\Debug\net7.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# pra\Lists\Lists\obj\Debug\net7.0\Lists.AssemblyInfoInputs.cache
+F:\C# pra\Lists\Lists\obj\Debug\net7.0\Lists.AssemblyInfo.cs
+F:\C# pra\Lists\Lists\obj\Debug\net7.0\Lists.csproj.CoreCompileInputs.cache
+F:\C# pra\Lists\Lists\obj\Debug\net7.0\Lists.dll
+F:\C# pra\Lists\Lists\obj\Debug\net7.0\refint\Lists.dll
+F:\C# pra\Lists\Lists\obj\Debug\net7.0\Lists.pdb
+F:\C# pra\Lists\Lists\obj\Debug\net7.0\Lists.genruntimeconfig.cache
+F:\C# pra\Lists\Lists\obj\Debug\net7.0\ref\Lists.dll

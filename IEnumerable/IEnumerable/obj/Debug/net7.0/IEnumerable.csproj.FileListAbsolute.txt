@@ -1,0 +1,15 @@
+F:\C# pra\IEnumerable\IEnumerable\obj\Debug\net7.0\IEnumerable.csproj.AssemblyReference.cache
+F:\C# pra\IEnumerable\IEnumerable\obj\Debug\net7.0\IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# pra\IEnumerable\IEnumerable\obj\Debug\net7.0\IEnumerable.AssemblyInfoInputs.cache
+F:\C# pra\IEnumerable\IEnumerable\obj\Debug\net7.0\IEnumerable.AssemblyInfo.cs
+F:\C# pra\IEnumerable\IEnumerable\obj\Debug\net7.0\IEnumerable.csproj.CoreCompileInputs.cache
+F:\C# pra\IEnumerable\IEnumerable\bin\Debug\net7.0\IEnumerable.exe
+F:\C# pra\IEnumerable\IEnumerable\bin\Debug\net7.0\IEnumerable.deps.json
+F:\C# pra\IEnumerable\IEnumerable\bin\Debug\net7.0\IEnumerable.runtimeconfig.json
+F:\C# pra\IEnumerable\IEnumerable\bin\Debug\net7.0\IEnumerable.dll
+F:\C# pra\IEnumerable\IEnumerable\bin\Debug\net7.0\IEnumerable.pdb
+F:\C# pra\IEnumerable\IEnumerable\obj\Debug\net7.0\IEnumerable.dll
+F:\C# pra\IEnumerable\IEnumerable\obj\Debug\net7.0\refint\IEnumerable.dll
+F:\C# pra\IEnumerable\IEnumerable\obj\Debug\net7.0\IEnumerable.pdb
+F:\C# pra\IEnumerable\IEnumerable\obj\Debug\net7.0\IEnumerable.genruntimeconfig.cache
+F:\C# pra\IEnumerable\IEnumerable\obj\Debug\net7.0\ref\IEnumerable.dll
